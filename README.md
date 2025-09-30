@@ -17,6 +17,7 @@
 | [ocaml05][ocaml05_tree]           | [![ocaml05_badge]][ocaml05_tree]          |
 | [ocaml06][ocaml06_tree]           | [![ocaml06_badge]][ocaml06_tree]          |
 | [ocaml07][ocaml07_tree]           | [![ocaml07_badge]][ocaml07_tree]          |
+| [ocaml08][ocaml08_tree]           | [![ocaml08_badge]][ocaml08_tree]          |
 
 </td></tr>
 
@@ -36,5 +37,7 @@
 [ocaml06_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%2050%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 [ocaml07_tree]: https://github.com/enes2424/42-Kocaeli-OCAML-Piscine/tree/42-Kocaeli-OCAML-8-ObjectOrientedProgramming-2
 [ocaml07_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%2080%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
+[ocaml08_tree]: https://github.com/enes2424/42-Kocaeli-OCAML-Piscine/tree/42-Kocaeli-OCAML-9-MonoidsAndMonads-3
+[ocaml08_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 
 </table>
