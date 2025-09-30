@@ -173,7 +173,3 @@ ocamlopt -o program ex00/ft_test_sign.ml
 - Side-effect'ler minimize edilmiştir (sadece print fonksiyonlarında kullanılmıştır)
 - Recursive çözümler iterative çözümlere tercih edilmiştir
 - OCaml'in tip sistemi ve immutability özellikleri göz önünde bulundurulmuştur
-
-## 🏫 42 Okulu Hakkında
-
-Bu proje 42 Okulu'nun peer-to-peer öğrenme metodolojisi kapsamında hazırlanmıştır. Projeler öğrencilerin birbirlerinden öğrenmesini ve algoritmic düşünme becerilerini geliştirmesini amaçlar.
