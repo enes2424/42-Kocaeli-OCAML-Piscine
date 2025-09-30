@@ -1,5 +1,5 @@
 # 42-Kocaeli-OCAML-Piscine
-## Temel Sözdizimi ve Anlambilim (Basic Syntax and Semantics)
+## Basic Syntax and Semantics (Temel Sözdizimi ve Anlambilim)
 
 Bu proje, 42 Okulu OCaml Piscine eğitiminin ilk modülüdür. OCaml programlama dilinin temel sözdizimi, recursive fonksiyonlar, string manipülasyonu ve algoritmik düşünme becerilerini geliştirmek için tasarlanmıştır.
 
