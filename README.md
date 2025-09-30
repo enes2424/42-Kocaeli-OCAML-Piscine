@@ -14,6 +14,7 @@
 | [ocaml02][ocaml02_tree]           | [![ocaml02_badge]][ocaml02_tree]          |
 | [ocaml03][ocaml03_tree]           | [![ocaml03_badge]][ocaml03_tree]          |
 | [ocaml04][ocaml04_tree]           | [![ocaml04_badge]][ocaml04_tree]          |
+| [ocaml05][ocaml05_tree]           | [![ocaml05_badge]][ocaml05_tree]          |
 
 </td></tr>
 
@@ -27,5 +28,7 @@
 [ocaml03_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 [ocaml04_tree]: https://github.com/enes2424/42-Kocaeli-OCAML-Piscine/tree/42-Kocaeli-OCAML-5-ImperativeFeatures-1
 [ocaml04_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%2070%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
+[ocaml05_tree]: https://github.com/enes2424/42-Kocaeli-OCAML-Piscine/tree/42-Kocaeli-OCAML-6-Functors-1
+[ocaml05_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%2070%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 
 </table>
