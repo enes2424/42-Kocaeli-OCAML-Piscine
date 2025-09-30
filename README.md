@@ -32,6 +32,6 @@
 [ocaml05_tree]: https://github.com/enes2424/42-Kocaeli-OCAML-Piscine/tree/42-Kocaeli-OCAML-6-Functors-1
 [ocaml05_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 [ocaml06_tree]: https://github.com/enes2424/42-Kocaeli-OCAML-Piscine/tree/42-Kocaeli-OCAML-7-ObjectOrientedProgramming-1
-[ocaml06_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%20100%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
+[ocaml06_badge]: https://custom-icon-badges.demolab.com/badge/✔%EF%B8%8E%2050%20/%20100-02b331.svg?&style=for-the-badge&color=018f27
 
 </table>
