@@ -1,6 +1,6 @@
 # 42-Kocaeli-OCAML-Piscine
 
-## Imperative Features (Zorunlu Programlama Özellikleri)
+## Imperative Features (Durum Değiştiren Özellikler)
 
 Bu proje, 42 Okulu OCaml Piscine eğitiminin beşinci modülüdür. OCaml'ın imperative programming özellikleri, mutable data structures, I/O operations, system programming ve dosya işlemleri konularında pratik uygulamalar geliştirmek için tasarlanmıştır.
 
@@ -280,3 +280,4 @@ let rec factorial n =
 - **Error Handling**: Robust exception handling patterns
 - **Data Science**: CSV parsing ve machine learning data preprocessing
 - **Memory Safety**: OCaml'ın memory safety garantileri imperative kodda da geçerli
+
