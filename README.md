@@ -9,8 +9,6 @@
 <tr style="display:flex; justify-content:space-around; paddind:0;">
 <td style="padding:0; margin:0;">
 
-| Project Name                      | Project Status                            |
-| :-                                | :-                                        |
 | [ocaml00][ocaml00_tree]           | [![ocaml00_badge]][ocaml00_tree]          |
 
 
