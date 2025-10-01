@@ -8,8 +8,8 @@
 <td style="padding:0; margin:0;">
 
 | Project Name                      | Project Status                            |
-| :-                                | :-                                        |
-|      [ocaml00][ocaml00_tree]      | [![ocaml00_badge]][ocaml00_tree]          |
+| :-:                               | :-:                                        |
+| [ocaml00][ocaml00_tree]           | [![ocaml00_badge]][ocaml00_tree]          |
 | [ocaml01][ocaml01_tree]           | [![ocaml01_badge]][ocaml01_tree]          |
 | [ocaml02][ocaml02_tree]           | [![ocaml02_badge]][ocaml02_tree]          |
 | [ocaml03][ocaml03_tree]           | [![ocaml03_badge]][ocaml03_tree]          |
