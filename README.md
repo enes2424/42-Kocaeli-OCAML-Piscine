@@ -7,7 +7,7 @@
 <tr style="display:flex; justify-content:space-around; paddind:0;">
 <td style="padding:0; margin:0;">
 
-| Projec İsmi                       | Proje Durumu                              |
+| Projec Adı                        | Proje Durumu                              |
 | :-:                               | :-:                                       |
 | [ocaml00][ocaml00_tree]           | [![ocaml00_badge]][ocaml00_tree]          | 
 | [ocaml01][ocaml01_tree]           | [![ocaml01_badge]][ocaml01_tree]          |
