@@ -1,4 +1,4 @@
-# 42-Kocaeli-OCAML-Piscine
+# 42 Kocaeli OCAML Piscine
 
 ## Monoids & Monads (Monoidler ve Monadlar)
 
@@ -496,3 +496,4 @@ type 'a list = [] | (::) of 'a * 'a list
 - **Progressive Complexity**: Simple monoids to advanced monadic transformations
 
 Bu proje, functional programming'in matematiksel temellerini OCaml dilinde pratik olarak uygulamanızı sağlar. Monoids ve monads'ın güçlü soyutlama kapasitelerini keşfederek, daha elegant ve maintainable kod yazma becerilerinizi geliştireceksiniz.
+
