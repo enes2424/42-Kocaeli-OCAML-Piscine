@@ -1,4 +1,4 @@
-# 42-Kocaeli-OCAML-Piscine
+# 42 Kocaeli OCAML Piscine
 
 ## Modules ve Data Structures (Modüller ve Veri Yapıları)
 
@@ -182,3 +182,4 @@ Deck (ex03)
 - **Type-driven Development**: Tipler önce, implementasyon sonra yaklaşımı
 - **Functional Paradigm**: Pure functions ve immutable data structures
 - **Card Game Foundation**: Daha karmaşık kart oyunları için temel yapı
+
