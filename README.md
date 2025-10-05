@@ -1,4 +1,4 @@
-# 42-Kocaeli-OCAML-Piscine
+# 42 Kocaeli OCAML Piscine
 
 ## Functors (Fonktörler)
 
@@ -273,3 +273,4 @@ module IntCalc = MakeCalculator(struct type t = int let add = (+) end)
 - **Performance**: Zero-cost abstractions, compile-time specialization
 - **Real-world Usage**: Compiler construction, data structure libraries, numerical computing
 - **Learning Curve**: Advanced concept, but extremely powerful for large-scale software design
+
