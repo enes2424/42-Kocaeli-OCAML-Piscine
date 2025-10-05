@@ -1,4 +1,4 @@
-# 42-Kocaeli-OCAML-Piscine
+# 42 Kocaeli OCAML Piscine
 ## Recursion ve Higher Order Functions (Özyineleme ve Yüksek Dereceli Fonksiyonlar)
 
 Bu proje, 42 Okulu OCaml Piscine eğitiminin ikinci modülüdür. İleri düzey recursive fonksiyonlar, higher-order functions, matematiksel algoritmalar ve fonksiyonel programlama prensiplerini öğrenmek için tasarlanmıştır.
