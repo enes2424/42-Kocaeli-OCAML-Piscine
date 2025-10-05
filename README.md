@@ -1,4 +1,4 @@
-# 42-Kocaeli-OCAML-Piscine
+# 42 Kocaeli OCAML Piscine
 
 ## Object-Oriented Programming (Nesne Yönelimli Programlama)
 
@@ -261,3 +261,4 @@ let create_person name = {name; hp = 100}
 - **Design Pattern**: Composition over inheritance principle
 - **Real-world Modeling**: Doctor Who universe ile concrete domain modeling
 - **Progressive Learning**: Simple classes → Inheritance → Complex interactions
+
