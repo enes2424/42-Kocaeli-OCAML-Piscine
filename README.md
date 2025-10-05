@@ -1,4 +1,4 @@
-# 42-Kocaeli-OCAML-Piscine
+# 42 Kocaeli OCAML Piscine
 
 ## Imperative Features (Durum Değiştiren Özellikler)
 
@@ -280,4 +280,5 @@ let rec factorial n =
 - **Error Handling**: Robust exception handling patterns
 - **Data Science**: CSV parsing ve machine learning data preprocessing
 - **Memory Safety**: OCaml'ın memory safety garantileri imperative kodda da geçerli
+
 
