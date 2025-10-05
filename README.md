@@ -1,4 +1,4 @@
-# 42-Kocaeli-OCAML-Piscine
+# 42 Kocaeli OCAML Piscine
 
 ## Virtual Classes & Chemical Modeling (Sanal Sınıflar ve Kimyasal Modelleme)
 
@@ -500,3 +500,4 @@ Final: 2 CH4 + 2 C2H6 + 11 O2 → 6 CO2 + 10 H2O
 - **Type Polymorphism**: Virtual methods ile flexible implementations
 - **Systematic Design**: Progressive complexity from atoms to complex reactions
 - **Real-world Application**: Chemistry domain ile practical OOP learning
+
