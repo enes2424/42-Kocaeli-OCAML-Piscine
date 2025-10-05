@@ -1,4 +1,4 @@
-# 42-Kocaeli-OCAML-Piscine
+# 42 Kocaeli OCAML Piscine
 
 ## Pattern Matching ve Data Types (Desen Eşleştirme ve Veri Türleri)
 
@@ -218,3 +218,4 @@ ocamlopt -o program ex00/encode.ml
 - Record types ile complex data structures oluşturuldu
 - Pattern matching ile elegant algoritma implementasyonları yapıldı
 - Type system ile compile-time güvenlik sağlandı
+
